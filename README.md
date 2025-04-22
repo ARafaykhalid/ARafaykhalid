@@ -59,7 +59,6 @@ C++, Python, WinUI, Vercel, Netlify
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARafaykhalid&show_icons=true&theme=radical" width="450px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARafaykhalid&theme=radical" width="450px">
 </p>
 
 <p align="center">
