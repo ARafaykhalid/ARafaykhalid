@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="name-badge" src="https://img.shields.io/badge/-Abdul%20Rafay%20Khalid-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="name-badge" src="https://img.shields.io/badge/-Abdul%20Rafay%20Khalid-000000?style=for-the-badge&logo=github&logoColor=white" width="500"/>
 </p>
 
 <p align="center">
@@ -8,8 +8,6 @@
   <img alt="certs2" src="https://img.shields.io/badge/Full--Stack%20Developer-000000?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+%2B+MENN+Specialist;Here+to+Connect+❤+Collaborate+✓+Learn;Meta+Front-End+%26+Full-Stack+Certified" alt="Abdul Rafay Khalid - Full-Stack Developer" />
 </p>
@@ -17,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/About%20Me-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/About%20Me-000000?style=for-the-badge&logo=github&logoColor=white" width="200"/>
 </p>
 
 <div align="center">
@@ -33,7 +31,7 @@ Growing in **Full-Stack depth** while mastering **Front-End craft**
 ---
 <!-- Tech — Visual (separated and centralized) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-000000?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-000000?style=for-the-badge&logo=bookstack&logoColor=white" width="200"/>
 </p>
 
 <p align="center">
@@ -100,7 +98,7 @@ Growing in **Full-Stack depth** while mastering **Front-End craft**
 ---
 <!-- Badge buttons — black minimalist, centralized -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Certifications-000000?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certifications-000000?style=for-the-badge&logo=bookstack&logoColor=white" width="250" />
 </p>
 
 <p align="center">
@@ -145,7 +143,7 @@ Growing in **Full-Stack depth** while mastering **Front-End craft**
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20%26%20Stats-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20%26%20Stats-000000?style=for-the-badge&logo=github&logoColor=white" width="250" />
 </p>
 
 <p align="center">
@@ -160,7 +158,7 @@ Growing in **Full-Stack depth** while mastering **Front-End craft**
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Let's%20Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Let's%20Connect-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" width="230" />
 </p>
 
 <p align="center">
