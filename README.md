@@ -59,6 +59,10 @@ Growing in **Full-Stack depth** while mastering **Front-End craft**
   <img src="https://img.shields.io/badge/Mongoose-000000?style=for-the-badge&logo=graphql&logoColor=white" alt="mongoose" />
   &nbsp;
   <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Strapi-000000?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Sanity-000000?style=for-the-badge&logo=sanity&logoColor=white" alt="sanity" />
   <!-- APIs / Auth / Validation -->
   <img src="https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=white" alt="axios" />
   &nbsp;
