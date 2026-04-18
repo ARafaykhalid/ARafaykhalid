@@ -44,11 +44,16 @@ Growing in **Full-Stack depth** while mastering **Front-End craft**
   &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="js" />
   &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white" alt="css" />
+  &nbsp;
   <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind" />
   &nbsp;
   <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zeit&logoColor=white" alt="zustand" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="zustand" />
+
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" alt="node" />
   &nbsp;
@@ -56,13 +61,14 @@ Growing in **Full-Stack depth** while mastering **Front-End craft**
   &nbsp;
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Mongoose-000000?style=for-the-badge&logo=graphql&logoColor=white" alt="mongoose" />
+  <img src="https://img.shields.io/badge/Mongoose-000000?style=for-the-badge&logo=mongoose&logoColor=white" alt="mongoose" />
   &nbsp;
   <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Strapi-000000?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
+  <img src="https://img.shields.io/badge/Strapi-000000?style=for-the-badge&logo=strapi&logoColor=white" alt="strapi" />
   &nbsp;
   <img src="https://img.shields.io/badge/Sanity-000000?style=for-the-badge&logo=sanity&logoColor=white" alt="sanity" />
+
   <!-- APIs / Auth / Validation -->
   <img src="https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=white" alt="axios" />
   &nbsp;
@@ -70,18 +76,30 @@ Growing in **Full-Stack depth** while mastering **Front-End craft**
   &nbsp;
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="jwt" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge" alt="zod" />
+  <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=white" alt="zod" />
+
   <!-- Storage & Media -->
   <img src="https://img.shields.io/badge/Cloudinary-000000?style=for-the-badge&logo=cloudinary&logoColor=white" alt="cloudinary" />
   &nbsp;
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase" />
+
   <!-- Design & Motion -->
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge" alt="gsap" />
+  <img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=white" alt="gsap" />
   &nbsp;
   <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white" alt="framer" />
+
+  <!-- 3D -->
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="threejs" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge&logo=react&logoColor=white" alt="r3f" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Drei-000000?style=for-the-badge&logo=react&logoColor=white" alt="drei" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white" alt="blender" />
 
   <!-- Dev & Deploy -->
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="git" />
@@ -92,11 +110,21 @@ Growing in **Full-Stack depth** while mastering **Front-End craft**
   &nbsp;
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="render" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge" alt="turborepo" />
+  <img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white" alt="turborepo" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Nx-000000?style=for-the-badge" alt="nx" />
-</p>
+  <img src="https://img.shields.io/badge/Nx-000000?style=for-the-badge&logo=nx&logoColor=white" alt="nx" />
 
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white" alt="lua" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/assembly-000000?style=for-the-badge&logo=assembly&logoColor=white" alt="assembly" />
+</p>
 
 
 ---
