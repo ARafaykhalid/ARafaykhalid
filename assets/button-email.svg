@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="56" viewBox="0 0 170 56" role="img" aria-labelledby="title desc">
+  <title id="title">Email Rafay</title>
+  <desc id="desc">White capsule button outlined in neon blue with a blue portal and north-east arrow.</desc>
+  <rect x=".75" y=".75" width="168.5" height="54.5" rx="27.25" fill="#f7f7f7" stroke="#0011ff" stroke-width="1.5"/>
+  <text x="23" y="32.5" fill="#0011ff" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.4">EMAIL</text>
+  <circle cx="141.5" cy="28" r="20.5" fill="#0011ff"/>
+  <path d="M134 34 149 19m-9.5 0h9.5v9.5" fill="none" stroke="#f7f7f7" stroke-width="2.2" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M141.5 10.5v35M124 28h35" fill="none" stroke="#f7f7f7" stroke-width=".55" opacity=".25"/>
+</svg>
