@@ -67,7 +67,7 @@ GitHub README markup cannot use ordinary project CSS, so responsiveness is handl
 - Continue the portfolio language: strong display copy, compact technical labels, and motion that communicates state.
 - New authored sections should include both desktop and mobile assets when dense text is involved.
 - Keep the snake URLs scoped to `ARafaykhalid/ARafaykhalid` and the generated `output` branch.
-- Snake generation uses the brand palette in both light and dark modes: neon blue `#0011ff`, editorial white `#f7f7f7`, and staged blue contribution dots.
+- Snake generation uses the brand palette in both light and dark modes: neon blue `#0011ff` with staged blue contribution dots.
 - All 41 technology marks are embedded vector paths inside the responsive stack panels; do not restore a separate badge or icon wall.
-- `.github/scripts/generate-contribution-trail.mjs` contains the complete local generator and the editable light/dark color palettes. It writes `github-snake-blue.svg` and `github-snake-blue-dark.svg` directly, without loading a snake from another profile repository.
+- `.github/workflows/contribution-trail.yml` uses the standard `Platane/snk` renderer so the snake shape, eating movement, timing, and progress bar match the familiar contribution snake exactly. Its output query strings contain the editable light/dark brand palettes and write `github-snake-blue.svg` and `github-snake-blue-dark.svg`.
 - Preserve reduced-motion fallbacks in animated SVGs.

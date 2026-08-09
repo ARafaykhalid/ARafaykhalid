@@ -19,10 +19,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate animated contribution trail
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node .github/scripts/generate-contribution-trail.mjs "${{ github.repository_owner }}" dist
+      - name: Generate animated contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-blue.svg?color_snake=#0011ff&color_dots=#e7e9f2,#d9ddff,#9aa5ff,#5263ff,#0011ff
+            dist/github-snake-blue-dark.svg?color_snake=#0011ff&color_dots=#252837,#d9ddff,#9aa5ff,#5263ff,#0011ff
 
       - name: Deploy animation to output branch
         uses: peaceiris/actions-gh-pages@v3
