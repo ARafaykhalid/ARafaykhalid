@@ -39,9 +39,9 @@
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ARafaykhalid&show_icons=true&hide_border=false&border_color=0011FF&bg_color=F7F7F7&title_color=0011FF&icon_color=0011FF&text_color=050505&ring_color=0011FF" alt="Abdul Rafay's GitHub statistics" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ARafaykhalid&hide_border=false&border=0011FF&background=F7F7F7&stroke=0011FF&ring=0011FF&fire=0011FF&currStreakLabel=0011FF&sideLabels=050505&currStreakNum=050505&sideNums=050505&dates=606060" alt="Abdul Rafay's GitHub contribution streak" />
-</p>
+</p> -->
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARafaykhalid&bg_color=F7F7F7&color=050505&line=0011FF&point=0011FF&area=true&area_color=0011FF&hide_border=false&border_color=0011FF&custom_title=COMMIT%20SIGNAL" alt="Abdul Rafay's GitHub activity graph" />
